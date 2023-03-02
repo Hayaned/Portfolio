@@ -1512,7 +1512,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * #PORTFOLIO, BLOG
    */
 
-  .project-img, .blog-banner-box { border-radius: 16px; }
+  .project-img, .blog-b-nner-box { border-radius: 16px; }
 
   .blog-posts-list { gap: 30px; }
 
@@ -1587,7 +1587,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 
   /**
-   * ABOUT
+   * A propos
    */
 
   /* testimonials modal */
@@ -1762,9 +1762,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-
-
-
+video {
+  width: 100%;
+  height: auto;
+}
 
 /**
  * responsive larger than 1250px screen
