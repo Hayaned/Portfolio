@@ -956,7 +956,7 @@ main {
   0% { transform: scale(0.5); }
   100% { transform: scale(1); }
 }
-
+*
 .project-item > a { width: 100%; }
 
 .project-img {
@@ -1031,6 +1031,8 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
+
+
 
 
 
